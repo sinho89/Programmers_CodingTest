@@ -21,5 +21,11 @@
     <ClCompile Include="String_To_Num.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="New_ID_Recom.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Crain_Game.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

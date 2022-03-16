@@ -1,9 +1,6 @@
 #include <string>
 #include <vector>
 
-#include <iostream>
-
-
 using namespace std;
 
 /*
@@ -28,9 +25,4 @@ int solution(string s) {
     answer = stoi(s);
 
     return answer;
-}
-
-int main()
-{
-    return 0;
 }
